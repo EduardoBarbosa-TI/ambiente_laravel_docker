@@ -1,1 +1,1 @@
-# ambiente_laravel_docker
+# Ambiente de desenvolvimento com docker: Laravel:9.48.0
